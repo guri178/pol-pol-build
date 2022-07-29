@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "./static/css/main.3e2fa82f.css",
+    "main.js": "./static/js/main.8cce4206.js",
+    "static/media/news5.jpg": "./static/media/news5.49ff3f327f99e1eb8bd6.jpg",
+    "static/media/news4.jpg": "./static/media/news4.c21495cefd99bc51c2f0.jpg",
+    "static/media/product2.jpg": "./static/media/product2.c6d0fe4d03bc8ff9c291.jpg",
+    "static/media/product3.jpg": "./static/media/product3.8dca8d27789fe9b30476.jpg",
+    "static/media/haikei2.jpg": "./static/media/haikei2.eca39e900f16be0b15b8.jpg",
+    "static/media/news6.jpg": "./static/media/news6.d321d160cda8610ae90c.jpg",
+    "static/media/haikei3.jpg": "./static/media/haikei3.302a2e11b08784331dd6.jpg",
+    "static/media/news3.jpg": "./static/media/news3.943a461301fb9ca8969f.jpg",
+    "static/media/haikei1.jpg": "./static/media/haikei1.1d07f0dbef12f2e0370e.jpg",
+    "static/media/product5.jpg": "./static/media/product5.e5ed26af0f2c0e69acaa.jpg",
+    "static/media/product6.jpg": "./static/media/product6.d79561ec382b6bfc030a.jpg",
+    "static/media/news1.jpg": "./static/media/news1.9b09861a59f3fd5eb9ba.jpg",
+    "static/media/product4.jpg": "./static/media/product4.03002576ffa54f274d90.jpg",
+    "static/media/news2.jpg": "./static/media/news2.dd673677507dc2a6470b.jpg",
+    "static/media/product1.jpg": "./static/media/product1.07ec7400966ed87b0835.jpg",
+    "static/media/rogo2.png": "./static/media/rogo2.cab02ec79a4bf1213e0f.png",
+    "static/media/rogo1.png": "./static/media/rogo1.29c7af197257a4dd255d.png",
+    "index.html": "./index.html",
+    "main.3e2fa82f.css.map": "./static/css/main.3e2fa82f.css.map",
+    "main.8cce4206.js.map": "./static/js/main.8cce4206.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2fa82f.css",
+    "static/js/main.8cce4206.js"
+  ]
+}
